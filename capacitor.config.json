@@ -1,0 +1,9 @@
+
+{
+  "appId": "app.lovable.e8085be3a9034390806a0d2953b0e6ae",
+  "appName": "locked-home-browser",
+  "server": {
+    "url": "https://e8085be3-a903-4390-806a-0d2953b0e6ae.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  }
+}
